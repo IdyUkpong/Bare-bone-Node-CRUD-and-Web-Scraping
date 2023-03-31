@@ -1,0 +1,50 @@
+[
+  {
+    "organization": "ID Tech",
+    "createdAt": "2023-03-17T20:11:06.180Z",
+    "updatedAt": "",
+    "products": ["developers", "pizza"],
+    "marketValue": "95%",
+    "ceo": "Idongesit",
+    "country": "Nigeria",
+    "id": 1,
+    "noOfEmployees": 3,
+    "employees": ["james", "bond", "jackie chan"]
+  },
+  {
+    "organization": "Decagon",
+    "createdAt": "2023-03-17T20:12:23.402Z",
+    "updatedAt": "2023-03-17T20:13:43.631Z",
+    "products": ["developers", "pizza"],
+    "marketValue": "95%",
+    "ceo": "Faith",
+    "country": "Europe",
+    "id": 2,
+    "noOfEmployees": 4,
+    "employees": ["james", "bond", "jackie", "chan"]
+  },
+  {
+    "organization": "Faith ninja",
+    "createdAt": "2023-03-17T20:12:46.243Z",
+    "updatedAt": "",
+    "products": ["developers", "pizza"],
+    "marketValue": "90%",
+    "ceo": "Faith",
+    "country": "England",
+    "id": 3,
+    "noOfEmployees": 4,
+    "employees": ["james", "bond", "jackie", "chan"]
+  },
+  {
+    "organization": "Node ninja",
+    "createdAt": "2023-03-18T15:22:34.742Z",
+    "updatedAt": "",
+    "products": ["developers", "web"],
+    "marketValue": "90%",
+    "ceo": "idy",
+    "country": "England",
+    "id": 4,
+    "noOfEmployees": 3,
+    "employees": ["james", "bond", "jackie"]
+  }
+]
